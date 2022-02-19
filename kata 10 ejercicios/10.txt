@@ -1,0 +1,1 @@
+Se agregan las evidencias para manejos de errores de la kata 10 en cmd, consola de python y notebook
